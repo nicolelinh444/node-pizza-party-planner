@@ -1,11 +1,3 @@
-/* 
-
-Your task: Make a Node.js pizza party planner that calculates how many slices of pizza each guest gets, and how many slices are left over!
-
-Follow the instructions in the README.md file in this folder.
-
-*/
-
 let hostName = process.argv[2];
 let pizzasOrdered = Number(process.argv[3]);
 let slicesPerPizza = Number(process.argv[4]);
