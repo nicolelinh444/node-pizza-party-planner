@@ -18,4 +18,4 @@ let leftOverSlices = totalSlices % numberOfGuests;
 
 console.log(`Hey ${hostName}! 🍕 You ordered ${pizzasOrdered} pizzas with ${slicesPerPizza} each - that's ${totalSlices} slices total!
     Each of your ${numberOfGuests} guests gets ${slicesPerGuest} slices, and you'll have ${leftOverSlices} left over.
-    Save those for breakfast! 😋`);5
+    Save those for breakfast! 😋`);
